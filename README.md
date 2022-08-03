@@ -7,6 +7,7 @@ FULL STACK WEB DEVELOPER
 - 🌱 I’m currently learning NextJS
 - 💬 Ask me about Tennis, Javascript| React JS | Node JS| Redux | Javascript | HTML| Express | Git | PostgresSQL | Sequelize | CSS
 - 📫 How to reach me: sebacontegrand@gmail.com
+- I Studied Aeronautical Engineering, have a Master Degree in Business | I work 25 years for an oil company in Argentina, YPF S.A.
 
 <!--
 **sebacontegrand/sebacontegrand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
