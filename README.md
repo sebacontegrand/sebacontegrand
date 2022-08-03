@@ -2,6 +2,7 @@
 
 ### Hi there I am Sebastian 👋
 FULL STACK WEB DEVELOPER
+- I graduated from Henry's Bootcamp
 - 🔭 I’m currently working on Tennis App
 - 🌱 I’m currently learning NextJS
 - 💬 Ask me about Tennis, Javascript| React JS | Node JS| Redux | Javascript | HTML| Express | Git | PostgresSQL | Sequelize | CSS
