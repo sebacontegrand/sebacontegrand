@@ -4,8 +4,9 @@
 
 
 FULL STACK WEB DEVELOPER
+- I am currently working on www.umoob.com as a front end Engineer
 - I graduated from Henry's Bootcamp
-- 🔭 I’m currently working on Tennis App
+- 🔭 I worked on a Tennis App
 - 🌱 I’m currently learning NextJS| +React JS |React Pro | socket io | Tailwind | Mui
 - 💬 Ask me about Tennis, Javascript| React JS | Node JS| Redux | Javascript | HTML| Express | Git | PostgresSQL | Sequelize | CSS
 - 📫 How to reach me: sebacontegrand@gmail.com
