@@ -5,7 +5,13 @@
 
 FULL STACK WEB DEVELOPER
 - I am currently working at www.accenture.com as developer
-- I developed
+- I developed:
+sebacontegrand/fifaworldcup2026 
+sebacontegrand/Kdramas
+sebacontegrand/Adelia 
+sebacontegrand/remix-of-character-quest 
+sebacontegrand/recetasjanet 
+
 - I worked at www.umoob.com as a front end Engineer
 - I graduated from Henry's Bootcamp
 - 🔭 I worked on a Tennis App
