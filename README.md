@@ -12,9 +12,6 @@ sebacontegrand/Adelia
 sebacontegrand/remix-of-character-quest 
 sebacontegrand/recetasjanet 
 
-- I worked at www.umoob.com as a front end Engineer
-- I graduated from Henry's Bootcamp
-- 🔭 I worked on a Tennis App
 - 🌱 My code is in NextJS| +React JS |Typescript | socket io | Tailwind | Mui
 - 💬 Ask me about Tennis, React JS | Node JS| Redux | Javascript | HTML| Express | Git | PostgresSQL | Sequelize | CSS | TypeScript | StoryBook | Next
 - 📫 How to reach me: sebacontegrand@gmail.com
@@ -25,9 +22,8 @@ sebacontegrand/recetasjanet
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Tennis App
+- 🔭 I’m currently working on FifaWorldCup App
 - 🌱 I write code in NextJS
-- here is one of my last work 》 www.bessellconsultancy.com
 - 💬 Ask me about ...
 - 📫 How to reach me: sebacontegrand@gmail.com
 
