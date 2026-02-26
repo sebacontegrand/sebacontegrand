@@ -4,7 +4,9 @@
 
 
 FULL STACK WEB DEVELOPER
-- I am currently working on www.umoob.com as a front end Engineer
+- I am currently working at www.accenture.com as developer
+- I developed
+- I worked at www.umoob.com as a front end Engineer
 - I graduated from Henry's Bootcamp
 - 🔭 I worked on a Tennis App
 - 🌱 My code is in NextJS| +React JS |Typescript | socket io | Tailwind | Mui
